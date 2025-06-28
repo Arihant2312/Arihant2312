@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 ---
 
 ### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant2312&show_icons=true&theme=radical)
+
 
 <div align="center">
 
