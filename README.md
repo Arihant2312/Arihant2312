@@ -34,12 +34,6 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 
 
 
----
 
 
-
-
----
-
-### 💡
 
