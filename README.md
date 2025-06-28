@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there 👋 I'm Arihant
 
-<!--
-**Arihant2312/Arihant2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, solving real-world problems, and building cool stuff 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- 🧠 I'm currently learning **Full Stack Development & DSA**
+- 🛠️ Tech I'm working with: `React`, `Node.js`, `MongoDB`, `C++`, `Python`
+- 🎯 Goal: Become a top contributor on GitHub & ace LeetCode!
+- 📬 Reach me on:
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arihant-bhansali2312/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://instagram.com/arihant_bhansaliofficial/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/ArihantJain0101)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arihantsbhansali2312@gmail.com)
+
+---
+
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArihantBhansali/?theme=dark&font=Baloo+Bhai&ext=contest)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+
+</div>
+
+---
+
+
+
+
+---
+
+### 💡
+
