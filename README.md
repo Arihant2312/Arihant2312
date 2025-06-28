@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 
 ### 🔥 About Me
 - 🧠 I'm currently learning **Full Stack Development & DSA**
-- 🛠️ Tech I'm working with: `React`, `Node.js`, `MongoDB`, `C++`, `Python`
+- 🛠️ Tech I'm working with: `Nextjs`, `Node.js`, `MongoDB`, `C++`, `Python`,`Express` ,`Tailwindcss`
 - 🎯 Goal: Become a top contributor on GitHub & ace LeetCode!
 - 📬 Reach me on:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arihant-bhansali2312/)
