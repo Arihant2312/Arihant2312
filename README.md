@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 ### 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ArihantBhansali?theme=dark&font=Baloo+Bhai&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 ---
 
