@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/@Arihantjain123/?theme=dark&font=Baloo+Bhai&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArihantBhansali?theme=dark&font=Baloo+Bhai&ext=contest)
 
 ---
 
@@ -26,12 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
-
-</div>
 
 ---
 
