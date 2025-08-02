@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant2312&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant2312&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Arihant2312?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 
