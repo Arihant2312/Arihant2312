@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arihantsbhansali2312@gmail.com)
 
 ---
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### 📊 LeetCode Stats
 
@@ -40,6 +42,10 @@ Welcome to my GitHub profile! I'm passionate about coding, solving real-world pr
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arihant2312&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant2312&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+
 
 
 
